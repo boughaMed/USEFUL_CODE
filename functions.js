@@ -1,3 +1,4 @@
+// USEFUL JAVASCRIPT FUNCTIONS
 // SOURCE: https://javascript.plainenglish.io/12-important-javascript-functions-every-web-developer-should-know-e488c4bbf521
 
 // 1- Shorten the console.log
